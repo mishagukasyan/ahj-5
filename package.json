@@ -8,8 +8,8 @@
     "lint": "eslint .",
     "e2e": "jest --testPathPattern=./e2e/ -- runInBand"
   },
-  "repository": "git@github.com:MadamZelenkova/HTMLforms.git",
-  "author": "Zelenkova <e.valerevna.turova@yandex.ru>",
+  "repository": "",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.24.6",
